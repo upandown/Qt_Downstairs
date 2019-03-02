@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resource/back - 副本.jpg</file>
+        <file>resource/back.jpg</file>
+        <file>resource/backlist.png</file>
+        <file>resource/begin.png</file>
+        <file>resource/board1.png</file>
+        <file>resource/boardbar1.png</file>
+        <file>resource/canel.png</file>
+        <file>resource/clound1.png</file>
+        <file>resource/clound2.png</file>
+        <file>resource/clound3.png</file>
+        <file>resource/fanhui.png</file>
+        <file>resource/fragileban.png</file>
+        <file>resource/gamelist.png</file>
+        <file>resource/gameover.png</file>
+        <file>resource/hp1.png</file>
+        <file>resource/hp2.png</file>
+        <file>resource/hp3.png</file>
+        <file>resource/listback.png</file>
+        <file>resource/normalban.png</file>
+        <file>resource/pause.png</file>
+        <file>resource/player.png</file>
+        <file>resource/player2.png</file>
+        <file>resource/player3.png</file>
+        <file>resource/player4.png</file>
+        <file>resource/player5.png</file>
+        <file>resource/qweqas.jpg</file>
+        <file>resource/reback.png</file>
+        <file>resource/rebegin.png</file>
+        <file>resource/sportban.png</file>
+        <file>resource/springban.png</file>
+        <file>resource/timg.jpg</file>
+        <file>resource/title.png</file>
+        <file>resource/trapban.png</file>
+        <file>resource/Tuichu.png</file>
+        <file>resource/userclear.png</file>
+        <file>resource/useryes.png</file>
+        <file>resource/xialou.png</file>
+        <file>resource/yesplayer1.png</file>
+        <file>resource/yesplayer2.png</file>
+        <file>resource/yesplayer3.png</file>
+        <file>resource/yesplayer4.png</file>
+        <file>resource/yesplayer5.png</file>
+        <file>resource/score.txt</file>
+        <file>resource/BGM.wav</file>
+        <file>resource/gameover.wav</file>
+        <file>resource/yahou.wav</file>
+    </qresource>
+</RCC>
